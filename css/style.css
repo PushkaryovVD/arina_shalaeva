@@ -629,3 +629,11 @@
       }
 
   }
+
+.with__decor{
+    list-style-type:circle;
+    margin-left: 5%;
+}
+.skills__img{
+    width: 12%;
+}
