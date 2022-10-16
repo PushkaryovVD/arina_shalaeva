@@ -123,6 +123,7 @@
 
   .mainPhoto {
       width: 50%;
+      /* height: 120px; */
       border-radius: 50%;
       border: 5px solid #eed98b;
   }
@@ -635,4 +636,13 @@
 }
 .skills__img{
     width: 12%;
+}
+.center__text{
+    text-align: center;
+
+}
+.center__text--high{
+    font-size: 3em;
+    font-style: italic;
+    
 }
